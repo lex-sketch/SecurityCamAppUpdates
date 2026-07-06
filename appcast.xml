@@ -1,29 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>\
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">\
-  <channel>\
-    <title>Security Cam Updates</title>\
-    <link>https://ohrio.com/appcast.xml</link>\
-    <description>Updates for Security Cam</description>\
-    <language>en</language>\
-\
-    <item>\
-      <title>Version 1.1</title>\
-      <description><![CDATA[\
-        <ul>\
-          <li>Fixed motion detection latching bug</li>\
-          <li>Improved recording pipeline stability</li>\
-        </ul>\
-      ]]></description>\
-      <pubDate>Mon, 06 Jul 2026 12:00:00 +0000</pubDate>\
-      <sparkle:version>1.1</sparkle:version>\
-      <sparkle:shortVersionString>1.1</sparkle:shortVersionString>\
-      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>\
-      <enclosure\
-        url="https://github.com/lex-sketch/SecurityCam-releases/releases/download/v1.1/SecurityCam.dmg"\
-        sparkle:edSignature="abc123signaturehere=="\
-        length="15234567"\
-        type="application/octet-stream" />\
-    </item>\
-\
-  </channel>\
-</rss>}
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>Security Cam Updates</title>
+    <item>
+      <title>Version 1.1</title>
+      <sparkle:version>1.1</sparkle:version>
+      <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/lex-sketch/SecurityCam-releases/releases/download/v1.1/SecurityCam.dmg"
+        sparkle:edSignature="SIGNATURE_HERE"
+        length="FILE_SIZE_IN_BYTES"
+        type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
