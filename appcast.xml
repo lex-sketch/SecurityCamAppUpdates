@@ -3,5 +3,16 @@
   <channel>
     <title>Security Cam Updates</title>
     <description>Updates for Security Cam</description>
+    <item>
+      <title>Version 1.1</title>
+      <sparkle:version>1.1</sparkle:version>
+      <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/lex-sketch/SecurityCam-releases/releases/download/v1.2/SecurityCam.dmg"
+        sparkle:edSignature="SIGNATURE_HERE"
+        length="3800"
+        type="application/octet-stream" />
+    </item>
   </channel>
 </rss>
