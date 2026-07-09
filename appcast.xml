@@ -4,8 +4,8 @@
     <title>Security Cam Updates</title>
     <description>Updates for Security Cam</description>
     <item>
-      <title>Version 1.1</title>
-      <sparkle:version>1.1</sparkle:version>
+      <title>Version 1.2</title>
+      <sparkle:version>1.2</sparkle:version>
       <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <enclosure
