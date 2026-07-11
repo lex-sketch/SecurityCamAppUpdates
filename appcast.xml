@@ -10,8 +10,8 @@
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <enclosure
         url="https://github.com/lex-sketch/SecurityCam-releases/releases/download/v1.2/SecurityCam.dmg"
-        sparkle:edSignature="SIGNATURE_HERE"
-        length="3800"
+        sparkle:edSignature="lnxf8FmYpEJjqDdDy00xAcBlybEmijiYMGqY9iVQk0xdjTS4EK+rRbICdi//5xIKMHqSH9CI2reE0IJsQOC5Cw=="
+        length="1119232"
         type="application/octet-stream" />
     </item>
   </channel>
